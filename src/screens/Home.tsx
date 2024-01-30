@@ -1,5 +1,5 @@
 import { useNavigation } from '@react-navigation/native';
-import React, { useLayoutEffect } from 'react';
+import { useLayoutEffect } from 'react';
 import { SafeAreaView, ScrollView, StatusBar } from 'react-native';
 
 import Categories from '../components/Categories';
